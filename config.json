@@ -1,7 +1,7 @@
 {
   "system_name": "Online Examination System",
   "version": "1.0.0",
-  "passing_threshold_percentage": 60,
+  "passing_threshold_percentage": 50,
   "max_allowed_attempts": 3,
   "auto_submit_on_timeout": true
 }
